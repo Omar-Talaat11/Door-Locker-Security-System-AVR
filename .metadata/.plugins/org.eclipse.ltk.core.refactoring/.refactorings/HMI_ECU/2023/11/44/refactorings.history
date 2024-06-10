@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;gpio.h, uart.h&apos; to &apos;MCAL&apos;" description="Move 2 resources to &apos;MCAL&apos;" destination="MCAL" element1="MCAL/Header/gpio.h" element2="MCAL/Header/uart.h" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="2" stamp="1698957790102" updateReferences="true"/>
+</session>
