@@ -1,4 +1,4 @@
-![image](https://github.com/Omar-Talaat11/Door-Locker-Security-System-AVR/assets/162178780/413e3918-bc80-4bc2-95ed-837fc83a8610)# Door-Locker-Security-System-AVR
+# Door-Locker-Security-System-AVR
 
 1) Use two ATmega32 Microcontrollers with frequency 8Mhz.
 2) The project should be design and implemented based on the layered architecture model as follow:
@@ -27,7 +27,7 @@
 Step2 - Main Options
   - The LCD will always display the main system option:
 
-![Uploading image.png…]()
+![image](https://github.com/Omar-Talaat11/Door-Locker-Security-System-AVR/assets/162178780/920d447b-0dd4-462f-ad46-fb5b6f51082d)
 
 Step3 - Open Door +
   - The LCD should display “Please Enter Password”
